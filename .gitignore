@@ -1,0 +1,7 @@
+# Only the published app (docs/) and this repo's README go to GitHub.
+# The handoff files and dev tooling stay on this laptop.
+/mountain-mural-handoff/
+/mountain-mural-handoff.zip
+/HANDOFF.md
+/dev/
+/.claude/
